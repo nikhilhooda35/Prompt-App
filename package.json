@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.20",
+    "mongoose": "^8.7.3",
     "next": "14.2.15",
     "next-auth": "4.24.8",
     "react": "19.0.0-rc-f994737d14-20240522",
